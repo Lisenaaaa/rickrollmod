@@ -20,7 +20,8 @@ public class registering {
             return;
         }
         // use drawStringWithShadow for shadowed text
-        Minecraft.getMinecraft().fontRendererObj.drawString("https://bit.ly/3iowjX8", 2, 2, -1 ,true);
+        Minecraft.getMinecraft().fontRendererObj.drawString("Never gonna give you up\n", 2, 2, -1 ,true);
+        Minecraft.getMinecraft().fontRendererObj.drawString("Never gonna let you down\n", 2, 2, -1 ,true);
 
     }
 }
