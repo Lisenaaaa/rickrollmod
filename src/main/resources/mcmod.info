@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zordlanrickroll",
+  "name": "Zordlan's Rickroll Mod'",
+  "description": "rickrolls you when you join a world",
+  "version": "${0.0}",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Zordlan"],
+  "credits": "Zordlan",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
