@@ -1,0 +1,1 @@
+This isn't a rickroll! No, there's no way this displays the lyrics for it on your screen if you put it in your mods folder and boot up Forge 1.8.9!
