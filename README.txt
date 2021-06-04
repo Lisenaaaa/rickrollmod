@@ -1,1 +1,3 @@
-This isn't a rickroll! No, there's no way this displays the lyrics for it on your screen if you put it in your mods folder and boot up Forge 1.8.9!
+# THIS ISNT A RICKROLL
+
+if you actually think its a rickroll then whats wrong with you it totally doesnt rickroll you no why would i do that i barely even know java, and the sk1er llc people arent nice enough to bully me into learning how it works
