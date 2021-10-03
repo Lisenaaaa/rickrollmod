@@ -1,4 +1,4 @@
-package com.zordlan.zordlanrickroll;
+package com.lisena.lisrickroll;
 
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.client.event.RenderGameOverlayEvent;
